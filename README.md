@@ -8,4 +8,7 @@
 * [ ] 타입이론 / http://wiki.c2.com/?TypingQuadrant
 * [ ] HTTP1.1 RFC2616 / https://hwanmin.tistory.com/attachment/cfile23.uf@2148BB3F56B149D114DE5D.pdf
 * [ ] RPC 호출 RF707 / https://www.rfc-editor.org/rfc/pdfrfc/rfc707.txt.pdf
+* [ ] 우리팀의 근무수칙 / https://brunch.co.kr/@svillustrated/13
+* [ ] 사고를 쳐도 혼나지 않는 회사 / https://brunch.co.kr/@svillustrated/13
 ---
+
